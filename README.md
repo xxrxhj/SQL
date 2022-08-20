@@ -1,6 +1,6 @@
-# S&P 500 Index Fund OHLCV (2016-2017)
+# Finance: S&P 500 Index Fund OHLCV (2016-2017)
 
-## S&P 500 is an investment index of top performing stocks. The following databases included the open-high-low-close-volume data from 2016 to 2017. Let's see what the data tell us.
+## S&P 500 index is a benchmark of the U.S. stock market. The following databases included the open-high-low-close-volume data from 2016 to 2017. Let's see what the data tell us.
 
 1. Prepare S_P and SPIndex databases
 ```
