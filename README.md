@@ -1,6 +1,6 @@
 # Finance: S&P 500 Index Fund OHLCV (2016-2017)
 
-## S&P 500 index is a benchmark of the U.S. stock market. Databases included the open-high-low-close-volume data from 2016 to 2017. Let's see what the data tell us - written in SQL.
+## S&P 500 index is a benchmark of the U.S. stock market. Databases included the open-high-low-close-volume data from 2016 to 2017. Written in SQL, let's see what the data show us.
 
 1. Prepare S_P and SPIndex databases
 ```
